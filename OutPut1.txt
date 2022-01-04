@@ -1,0 +1,62 @@
+*** Welcome to Mo's Classic Car Rentals ***
+
+Enter car data filename: c:/temp/classiccars.csv
+
+                             *            *            *                               
+Cars
+1. 1961 Ford Thunderbird Rate : $ 320 status :  Not Rented
+2. 1981 DeLorean DMC-12 Rate : $ 345 status :  Not Rented, Needs Service
+3. 1966 Mercedes-Benz 280 SL Rate : $ 375 status :  Not Rented
+4. 1978 Porsche 911 SM Rate : $ 455 status :  Not Rented
+5. 1978 Ferrari 308 GTS Rate : $ 500 status :  Not Rented
+
+Options
+A. Rent a car
+B. Return a car
+C. Flag car for servicing
+D. Clear car from servicing
+E. To exit program
+
+Enter your option (by letter): A
+Rent a car. Enter a car selection (by number): 2
+The DeLorean DMC-12 is not available to rent.
+Press [Enter] to continue... 
+                             *            *            *                               
+Cars
+1. 1961 Ford Thunderbird Rate : $ 320 status :  Not Rented
+2. 1981 DeLorean DMC-12 Rate : $ 345 status :  Not Rented, Needs Service
+3. 1966 Mercedes-Benz 280 SL Rate : $ 375 status :  Not Rented
+4. 1978 Porsche 911 SM Rate : $ 455 status :  Not Rented
+5. 1978 Ferrari 308 GTS Rate : $ 500 status :  Not Rented
+
+Options
+A. Rent a car
+B. Return a car
+C. Flag car for servicing
+D. Clear car from servicing
+E. To exit program
+
+Enter your option (by letter): A
+Rent a car. Enter a car selection (by number): 3
+Enter renter's name: Carl Greene
+Enter renter's phone  #: 403-888-9999
+                             *            *            *                               
+Cars
+1. 1961 Ford Thunderbird Rate : $ 320 status :  Not Rented
+2. 1981 DeLorean DMC-12 Rate : $ 345 status :  Not Rented, Needs Service
+3. 1966 Mercedes-Benz 280 SL Rate : $ 375 status :  Rented (Carl Greene 403-888-9999) 
+4. 1978 Porsche 911 SM Rate : $ 455 status :  Not Rented
+5. 1978 Ferrari 308 GTS Rate : $ 500 status :  Not Rented
+
+Options
+A. Rent a car
+B. Return a car
+C. Flag car for servicing
+D. Clear car from servicing
+E. To exit program
+
+Enter your option (by letter): E
+Number of rentals initiated in this session: 1
+Total rental rate revenue from this session: $375
+
+Good bye!

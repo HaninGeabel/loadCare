@@ -1,0 +1,199 @@
+Enter your option (by letter): B
+
+Return a car. Enter a car selection (by number): 5
+The Ferrari 308 GTS is not rented and cannot be returned.
+Press [Enter] to continue...  
+                            *            *            *                               
+Cars
+1. 1961 Ford Thunderbird Rate : $ 320 status :  Not Rented
+2. 1981 DeLorean DMC-12 Rate : $ 345 status :  Not Rented, Needs service
+3. 1966 Mercedes-Benz 280 SL Rate : $ 375 status :  Rented (Carl Greene 403-888-9999)
+4. 1978 Porsche 911 SM Rate : $ 455 status :  Not Rented
+5. 1978 Ferrari 308 GTS Rate : $ 500 status :  Not Rented
+
+Options
+A. Rent a car
+B. Return a car
+C. Flag car for servicing
+D. Clear car from servicing
+E. To exit program
+
+Enter your option (by letter): B
+
+Return a car. Enter a car selection (by number): 3
+ 
+                            *            *            *                               
+Cars
+1. 1961 Ford Thunderbird Rate : $ 320 status :  Not Rented
+2. 1981 DeLorean DMC-12 Rate : $ 345 status :  Not Rented, Needs service
+3. 1966 Mercedes-Benz 280 SL Rate : $ 375 status :  Not Rented
+4. 1978 Porsche 911 SM Rate : $ 455 status :  Not Rented
+5. 1978 Ferrari 308 GTS Rate : $ 500 status :  Not Rented
+
+Options
+A. Rent a car
+B. Return a car
+C. Flag car for servicing
+D. Clear car from servicing
+E. To exit program
+
+Enter your option (by letter): A
+Rent a car. Enter a car selection (by number): 1
+Enter renter's name: Heather Mason
+Enter renter's phone  #: 403-999-8888
+ 
+                            *            *            *                               
+Cars
+1. 1961 Ford Thunderbird Rate : $ 320 status :  Rented (Heather Mason 403-999-8888)
+2. 1981 DeLorean DMC-12 Rate : $ 345 status :  Not Rented, Needs service
+3. 1966 Mercedes-Benz 280 SL Rate : $ 375 status :  Not Rented
+4. 1978 Porsche 911 SM Rate : $ 455 status :  Not Rented
+5. 1978 Ferrari 308 GTS Rate : $ 500 status :  Not Rented
+
+Options
+A. Rent a car
+B. Return a car
+C. Flag car for servicing
+D. Clear car from servicing
+E. To exit program
+
+Enter your option (by letter): A
+Rent a car. Enter a car selection (by number): 1
+The Ford Thunderbird is not available to rent.
+ 
+                            *            *            *                               
+Cars
+1. 1961 Ford Thunderbird Rate : $ 320 status :  Rented (Heather Mason 403-999-8888)
+2. 1981 DeLorean DMC-12 Rate : $ 345 status :  Not Rented, Needs service
+3. 1966 Mercedes-Benz 280 SL Rate : $ 375 status :  Not Rented
+4. 1978 Porsche 911 SM Rate : $ 455 status :  Not Rented
+5. 1978 Ferrari 308 GTS Rate : $ 500 status :  Not Rented
+
+Options
+A. Rent a car
+B. Return a car
+C. Flag car for servicing
+D. Clear car from servicing
+E. To exit program
+
+Enter your option (by letter): A
+Rent a car. Enter a car selection (by number): 4
+Enter renter's name: Nick Thompson
+Enter renter's phone  #: 587-999-8888
+ 
+                            *            *            *                               
+Cars
+1. 1961 Ford Thunderbird Rate : $ 320 status :  Rented (Heather Mason 403-999-8888)
+2. 1981 DeLorean DMC-12 Rate : $ 345 status :  Not Rented, Needs service
+3. 1966 Mercedes-Benz 280 SL Rate : $ 375 status :  Not Rented
+4. 1978 Porsche 911 SM Rate : $ 455 status :  Rented (Nick Thompson 587-999-8888)
+5. 1978 Ferrari 308 GTS Rate : $ 500 status :  Not Rented
+
+Options
+A. Rent a car
+B. Return a car
+C. Flag car for servicing
+D. Clear car from servicing
+E. To exit program
+
+Enter your option (by letter): C
+
+Flag car for servicing. Enter a car selection (by number): 1
+ 
+                            *            *            *                               
+Cars
+1. 1961 Ford Thunderbird Rate : $ 320 status :  Rented (Heather Mason 403-999-8888), Needs service
+2. 1981 DeLorean DMC-12 Rate : $ 345 status :  Not Rented, Needs service
+3. 1966 Mercedes-Benz 280 SL Rate : $ 375 status :  Not Rented
+4. 1978 Porsche 911 SM Rate : $ 455 status :  Rented (Nick Thompson 587-999-8888)
+5. 1978 Ferrari 308 GTS Rate : $ 500 status :  Not Rented
+
+Options
+A. Rent a car
+B. Return a car
+C. Flag car for servicing
+D. Clear car from servicing
+E. To exit program
+
+Enter your option (by letter): D
+
+Clear car for servicing. Enter a car selection (by number): 4
+The Porsche 911 SM is not flagged as needing service.
+ 
+                            *            *            *                               
+Cars
+1. 1961 Ford Thunderbird Rate : $ 320 status :  Rented (Heather Mason 403-999-8888), Needs service
+2. 1981 DeLorean DMC-12 Rate : $ 345 status :  Not Rented, Needs service
+3. 1966 Mercedes-Benz 280 SL Rate : $ 375 status :  Not Rented
+4. 1978 Porsche 911 SM Rate : $ 455 status :  Rented (Nick Thompson 587-999-8888)
+5. 1978 Ferrari 308 GTS Rate : $ 500 status :  Not Rented
+
+Options
+A. Rent a car
+B. Return a car
+C. Flag car for servicing
+D. Clear car from servicing
+E. To exit program
+
+Enter your option (by letter): D
+
+Clear car for servicing. Enter a car selection (by number): 1
+ 
+                            *            *            *                               
+Cars
+1. 1961 Ford Thunderbird Rate : $ 320 status :  Rented (Heather Mason 403-999-8888)
+2. 1981 DeLorean DMC-12 Rate : $ 345 status :  Not Rented, Needs service
+3. 1966 Mercedes-Benz 280 SL Rate : $ 375 status :  Not Rented
+4. 1978 Porsche 911 SM Rate : $ 455 status :  Rented (Nick Thompson 587-999-8888)
+5. 1978 Ferrari 308 GTS Rate : $ 500 status :  Not Rented
+
+Options
+A. Rent a car
+B. Return a car
+C. Flag car for servicing
+D. Clear car from servicing
+E. To exit program
+
+Enter your option (by letter): B
+
+Return a car. Enter a car selection (by number): 4
+ 
+                            *            *            *                               
+Cars
+1. 1961 Ford Thunderbird Rate : $ 320 status :  Rented (Heather Mason 403-999-8888)
+2. 1981 DeLorean DMC-12 Rate : $ 345 status :  Not Rented, Needs service
+3. 1966 Mercedes-Benz 280 SL Rate : $ 375 status :  Not Rented
+4. 1978 Porsche 911 SM Rate : $ 455 status :  Not Rented
+5. 1978 Ferrari 308 GTS Rate : $ 500 status :  Not Rented
+
+Options
+A. Rent a car
+B. Return a car
+C. Flag car for servicing
+D. Clear car from servicing
+E. To exit program
+
+Enter your option (by letter): B
+
+Return a car. Enter a car selection (by number): 1
+ 
+                            *            *            *                               
+Cars
+1. 1961 Ford Thunderbird Rate : $ 320 status :  Not Rented
+2. 1981 DeLorean DMC-12 Rate : $ 345 status :  Not Rented, Needs service
+3. 1966 Mercedes-Benz 280 SL Rate : $ 375 status :  Not Rented
+4. 1978 Porsche 911 SM Rate : $ 455 status :  Not Rented
+5. 1978 Ferrari 308 GTS Rate : $ 500 status :  Not Rented
+
+Options
+A. Rent a car
+B. Return a car
+C. Flag car for servicing
+D. Clear car from servicing
+E. To exit program
+
+Enter your option (by letter): E
+Number of rentals initiated in this session: 2
+Total rental rate revenue from this session: $775
+
+Good bye!
